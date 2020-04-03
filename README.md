@@ -1,5 +1,5 @@
 # finstagram
-
+Sarah
 
 Welcome to the Lighthouse labs web fundamentals project! 
 

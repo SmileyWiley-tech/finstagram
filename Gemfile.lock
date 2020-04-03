@@ -78,10 +78,8 @@ GEM
     tzinfo (1.2.6)
       thread_safe (~> 0.1)
     zeitwerk (2.3.0)
-
 PLATFORMS
   ruby
-
 DEPENDENCIES
   activesupport
   pg
@@ -95,6 +93,5 @@ DEPENDENCIES
   sinatra-contrib
   sqlite3
   tux
-
 BUNDLED WITH
    2.1.4
